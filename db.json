@@ -2,9 +2,6 @@
   "/": {
     "status": "ok"
   },
-  "search": [
-    { "id": 1, "title": "Post 1" }
-  ],
   "query": [
     { "id": 1, "title": "Post 1" }
   ],
